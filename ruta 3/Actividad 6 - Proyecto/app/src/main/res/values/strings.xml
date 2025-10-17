@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pasco</string>
+    <string name="back_button">Back</string>
+
+    <!-- Coffee Shops -->
+    <string name="coffee_shop_1_name">El Cajacho</string>
+    <string name="coffee_shop_1_description">El mejor restaurant- Cafe, en Cerro de Pasco. atencion A1, ambiente acogedor, calefacción, productos cajamarquinos.</string>
+    <string name="coffee_shop_2_name">Holly Belly</string>
+    <string name="coffee_shop_2_description">¡Descubre Holybelly , donde la cocina, cafetería y el espresso bar se fusionan para ofrecerte una experiencia única! Ven y disfruta con nosotros.</string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_1_name">Sol de Oro</string>
+    <string name="restaurant_1_description">En #CerroDePasco ¡Comida que conecta, sabor que enamora! ¡Bienvenidos a Sol de Oro!</string>
+    <string name="restaurant_2_name">Kimbos</string>
+    <string name="restaurant_2_description">Lo mejor de Pasco, en un sólo lugar, visítanos y disfruta de todo lo que tenemos para ti.</string>
+    <string name="restaurant_3_name">Chifast</string>
+    <string name="restaurant_3_description">Un extenso menú de Chifast de Cerro de Pasco que abarca todos los 1 platos y bebidas lo encontrarás aquí en el menú.</string>
+
+    <!-- Parks -->
+    <string name="park_1_name">Parque Universitario (Castillo de Lourdes)</string>
+    <string name="park_1_description">El principal atractivo del parque es el denominado Castillo Lourdes (antiguo ascensor minero que bajaba hasta el nivel 2100 msnm), diseñado a escala, de estructura metálica que posee una altura aproximada de 14 metros.</string>
+    <string name="park_2_name">Parque Comercio</string>
+    <string name="park_2_description">Dentro del parque se puede apreciar una hermosa y llamativa Glorieta de estilo europeo, de 7.5 m. de alto, construida sobre un tarimado octogonal de piedra y granito.</string>
+    <string name="park_3_name">Plaza Daniel Alcides Carrión</string>
+    <string name="park_3_description">En honor al héroe de la medicina peruana. La estatua que compone esta plaza tiene una altura aproximada de 5.50 metros de altura.</string>
+
+    <!-- Museums -->
+    <string name="museum_1_name">Museo Minero</string>
+    <string name="museum_1_description">Este Primer Centro de Interpretación de la Minería Pasqueña "Museo Minero" cuenta con 4 áreas.</string>
+
+    <!-- Others -->
+    <string name="mall_1_name">Tajo Abierto</string>
+    <string name="mall_1_description">Rodeando al inmenso tajo abierto de 2.5 km de largo por 1.8 km de ancho y con profundidad aproximada de 800 metros, se encuentran los distritos de Simón Bolívar, Chaupimarca y Yanacancha.</string>
+    <string name="mall_2_name">Cementerio General</string>
+    <string name="mall_2_description">Se encuentra cerca de Estadio Coloso Yanacanchino, así como de Universidad Nacional Daniel Alcides Carrión.</string>
+</resources>
